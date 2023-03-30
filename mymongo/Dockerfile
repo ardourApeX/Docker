@@ -1,4 +1,4 @@
-# Step1 : Select a base image
+# Step1 : Select a base imagenau
 FROM alpine
 
 # Step2 : Install a software
